@@ -31,3 +31,15 @@ Makefile.in
 # http://www.gnu.org/software/texinfo
 
 /texinfo.tex
+
+COPYING
+INSTALL
+Makefile
+config.h
+config.h.in~
+config.log
+config.status
+src/.deps/
+src/Makefile
+src/hello
+src/hello-main.o
